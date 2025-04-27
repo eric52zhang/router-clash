@@ -5,6 +5,7 @@
 # DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,copilot.microsoft.com
 
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com

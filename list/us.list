@@ -1,2 +1,20 @@
-# x10免费服务器，和AI2.list配置在一起，因为AI2只配美国地址
+# x10hosting免费服务器，和AI2.list配置在一起，因为AI2只配美国地址
 DOMAIN-SUFFIX,x10hosting.com
+
+# infinityfree免费服务器
+DOMAIN-SUFFIX,infinityfree.com
+
+# deSEC免费域名
+DOMAIN-SUFFIX,desec.io
+
+# I35免费域名
+DOMAIN-SUFFIX,l53.net
+
+# profreehost免费服务器及域名
+DOMAIN-SUFFIX,profreehost.com
+
+# serv00免费服务器
+DOMAIN-SUFFIX,serv00.com
+
+# ClouDNS免费域名
+DOMAIN-SUFFIX,cloudns.net

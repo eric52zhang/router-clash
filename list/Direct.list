@@ -239,6 +239,21 @@ DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,xiaomi.net
 DOMAIN-SUFFIX,xiaomicp.com
 
+# My-domains
+DOMAIN-SUFFIX,camelz.x10.mx
+DOMAIN-SUFFIX,camelz.cloudns.ch
+DOMAIN-SUFFIX,lelez.x10.mx
+DOMAIN-SUFFIX,jintian.site
+DOMAIN-SUFFIX,camelz.site
+DOMAIN-SUFFIX,7306923.xyz
+DOMAIN-SUFFIX,lelez.unaux.com
+DOMAIN-SUFFIX,cuie.dpdns.org
+DOMAIN-SUFFIX,camelz.rf.gd
+DOMAIN-SUFFIX,camelz.dedyn.io
+DOMAIN-SUFFIX,xart.x10.mx
+DOMAIN-SUFFIX,lelez.ip-ddns.com
+DOMAIN-SUFFIX,xiagao.cloudns.ch
+
 # NetEase
 DOMAIN-SUFFIX,126.com
 DOMAIN-SUFFIX,126.net
